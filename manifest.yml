@@ -6,3 +6,4 @@ applications:
   name: test
   host: test-rak
   disk_quota: 1024M
+
